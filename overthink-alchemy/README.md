@@ -1,3 +1,4 @@
+<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/fc96ff37-db3a-4fa1-8270-886dff25d6d1" />
 
 # OverthinkOS 🧠
 
