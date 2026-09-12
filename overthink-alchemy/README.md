@@ -16,7 +16,7 @@
 
 ### Project Description
 
-OverthinkOS is a humorous entertainment web application that turns simple everyday questions into unnecessarily complicated overthinking reports. It generates fake scientific analysis, ridiculous consequence trees, imaginary expert opinions, random confidence scores, and funny final recommendations.
+OverthinkOS is a humorous entertainment web application that turns simple everyday questions into unnecessarily complicated overthinking reports. It generates fake scientific analysis, ridiculous consequence trees, imaginary expert opinions, and absurd final recommendations.
 
 The application is designed to make users laugh by treating ordinary decisions like highly complicated scientific investigations.
 
@@ -98,15 +98,15 @@ For Software:
 
 ## Screenshots
 
-![Welcome Screen](Add screenshot of the premium OverthinkOS welcome screen here)
+![Welcome Screen](https://github.com/abhinrajeev76-jpg/useless_project_temp/raw/main/overthink-alchemy/Images/Screenshot%202026-09-12%20080243.png)
 
 *The premium welcome screen allows users to enter a question, select an overthinking level, and start the analysis.*
 
-![Analysis Screen](Add screenshot of the animated analysis screen here)
+![Analysis Screen](https://github.com/abhinrajeev76-jpg/useless_project_temp/raw/main/overthink-alchemy/Images/Screenshot%202026-09-12%20080330.png)
 
 *The analysis screen displays humorous processing messages, a loading indicator, and a fictional processing percentage.*
 
-![Result Dashboard](Add screenshot of the premium result dashboard here)
+![Result Dashboard](https://github.com/abhinrajeev76-jpg/useless_project_temp/raw/main/overthink-alchemy/Images/Screenshot%202026-09-12%20080341.png)
 
 *The result dashboard displays the original question, fictional risk statistics, consequence tree, imaginary expert opinions, confidence score, and final recommendation.*
 
@@ -156,9 +156,9 @@ For Software:
                     │ Dashboard               │
                     └────────────┬────────────┘
                                  │
-                 ┌───────────────┼───────────────┐
-                 ▼               ▼               ▼
-          Overthink Again   Stop Thinking   New Question
+                  ┌───────────────┼───────────────┐
+                  ▼               ▼               ▼
+           Overthink Again   Stop Thinking   New Question
 ```
 
 *The workflow shows how the user interacts with the frontend application and receives a fictional overthinking report.*
