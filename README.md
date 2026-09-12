@@ -11,7 +11,7 @@
 
 * Team Lead: Abhin Rajeev - [College Name]
 * Member 2: Ashtami Raj - [College Name]
-* Member 3: [Add Name] - [College Name]
+
 
 ### Project Description
 
@@ -228,7 +228,7 @@ OverthinkOS/
 
 * **Abhin Rajeev:** Project concept, frontend development, JavaScript functionality, and integration.
 * **Ashtami Raj:** UI/UX design, testing, and creative content development.
-* **[Member Name]:** [Specific contributions]
+
 
 ---
 
