@@ -1,3 +1,4 @@
+<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/72355fa6-1a92-4853-9dd8-9d6471b26905" />
 # OverthinkOS 🧠
 
 > **Making simple decisions unnecessarily difficult.**
